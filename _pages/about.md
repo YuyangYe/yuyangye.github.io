@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yuyang Ye is a Ph.D. graduate in Information Technology from Rutgers University. His research interests span data mining, large language models, graph learning, recommender systems, and reinforcement learning. He has extensive experience working on real-world problems, including dynamic treatment recommendation, multi-modal personalization, and industrial optimization, with a focus on both theoretical foundations and practical deployment. Yuyang has conducted research collaborations and internships at leading industrial research labs, including Baidu Research (USA), NEC Laboratories America, and Baidu Inc. His work has been recognized through publications in top-tier conferences and journals such as ICML, KDD, AAAI, TKDE, and ICDM. 
+Yuyang Ye is a Ph.D. graduate in Information Technology from Rutgers University. His research interests span data mining, large language models, graph learning, learning to rank techniques, and reinforcement learning, as well as their applications. He has extensive experience working on real-world problems, including dynamic treatment recommendation, multi-modal personalization, and industrial optimization, with a focus on both theoretical foundations and practical deployment. Yuyang has conducted research collaborations and internships at leading industrial research labs, including Baidu Research (USA), NEC Laboratories America, and Baidu Inc. His work has been recognized through publications in top-tier conferences and journals such as ICML, KDD, AAAI, TKDE, and ICDM. 
 
 ---
 

@@ -29,21 +29,33 @@ Yuyang Ye is a Ph.D. graduate in Information Technology from Rutgers University.
 ## Work Experience
 
 - **Research Assistant**  
-  Rutgers Business School, Center of Data Mining and Business Analytics (Sep 2020 – May 2025)  
+  Rutgers Business School, Piscataway, NJ, USA (Sep 2020 – May 2025)  
   - Worked on influence-based graph autoencoder for university evaluation  
   - Developed MLLM-based multi-modal recommendation framework  
-  - Built SAFER, a risk-aware framework for multumodal dynamic treatment recommendation  
+  - Built SAFER, a risk-aware framework for multimodal dynamic treatment recommendation  
   - Developed RLHF-based personalized advertisement system
 
 - **Research Intern**  
-  Baidu Research Institute, Silicon Valley AI Lab (Jun 2024 – Sep 2024)  
+  Baidu Research Institute, Sunnyvale, CA, USA (Jun 2024 – Sep 2024)  
   - Built diffusion-based motion generation for virtual characters
 
 - **Research Intern**  
-  NEC Laboratories America (May 2023 – Sep 2023)  
-  - Developed the PAIL engine for imitation learning based industrial carbon neutrality optimization
+  NEC Laboratories America, Princeton, NJ, USA (May 2023 – Sep 2023)  
+  - Developed the PAIL engine for imitation learning-based industrial carbon neutrality optimization
 
 - **Research Intern**  
-  Baidu Inc., Talent Intelligence Center (Jul 2018 – Aug 2021)  
-  - Proposed NNDSP for dynamic graph analysis based high-potential talent identification 
+  Baidu Inc., Talent Intelligence Center, Beijing, China (Jul 2018 – Aug 2021)  
+  - Proposed NNDSP for dynamic graph analysis-based high-potential talent identification  
   - Designed MANE for organizational network embedding for talent analysis
+
+## Teaching Experience
+
+- **Independent Lecturer**, Rutgers University  
+  - Production and Operation Management (Fall 2024, undergraduate course)  
+  - Management Information Systems (Spring 2025, undergraduate course)
+
+## Professional Activities
+
+- Reviewer for top conferences and journals, including:
+  - ICLR, NeurIPS, KDD, AAAI, IJCAI, ICDM, SDM, CIKM, ICASSP
+  - IEEE TKDE, ACM TKDD, IEEE TBD, ACM TOIS, DMLR

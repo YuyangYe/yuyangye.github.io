@@ -40,3 +40,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.greedy-nav__item {
+  margin-right: 48px;  /* 默认可能是20px，可以增大到48px或更大 */
+}
+
+.greedy-nav__item:last-child {
+  margin-right: 0;     /* 最后一个不要多余间距 */
+}
